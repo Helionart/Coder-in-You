@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+.main-body{
+    background-image: url("Deadpool-Wallpaper-for-Desktop.png")
+}
+
+.main-container{
+    max-width: 600px;
+    background-color: white;
+    margin: auto;
+}
