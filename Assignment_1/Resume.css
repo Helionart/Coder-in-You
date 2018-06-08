@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,900');
+
+.main-background {
+    background-image: url("spectrum.jpg");
+    font-family: 'lato';
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: gray
+}
+
+.profile-img {
+    display: block;
+	width: 200px;
+	height: 200px;
+	margin: auto; 
+	border-radius: 50%;
+	border: 1px solid #aaa;
+	margin-top: 30px;
+}
+
+.my-link {
+	color:black;
+}
+
+.my-certificate {
+	width: 150px;
+	height: 150px;
+	border-radius: 5%;
+	margin: 10px 10px;
+}
+
+ul {
+	background-color: gray;
+}
+.social-media {
+	font-size: 3rem;
+	color: white;
+}
